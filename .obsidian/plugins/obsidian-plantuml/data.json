@@ -1,0 +1,10 @@
+{
+  "server_url": "",
+  "header": "",
+  "debounce": 3,
+  "localJar": "/usr/share/plantuml/plantuml.jar",
+  "javaPath": "/usr/bin/java",
+  "dotPath": "dot",
+  "defaultProcessor": "png",
+  "cache": 60
+}
